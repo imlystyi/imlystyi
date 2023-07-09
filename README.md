@@ -2,7 +2,7 @@
   <img align="left" alt="My Instagram" width="25px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://twitter.com/imlystyi">
-  <img align="left" alt="My Twitter" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="My Twitter" width="25px" src="https://cdn1.iconfinder.com/data/icons/social-media-set-for-free/32/twitter-512.png" />
 </a>
 <a href="https://www.linkedin.com/in/vladyslav-yakubovskyi-54728a278/">
   <img align="left" alt="My LinkedIn" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png"/>
