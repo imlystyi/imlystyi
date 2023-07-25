@@ -14,21 +14,21 @@ Now I'm the Team Leader of the [miu-miu enjoyers](https://github.com/miu-miu-enj
 If we're talking about my personal projects, I developed [Coin Manager](https://github.com/imlystyi/coin-manager) - the application to manage and watch cryptocurrency market - and [QuickPlans](https://github.com/imlystyi/quickplans) - simple, quick and concise note editor for Android.
 ### 📲 Languages and technologies
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
-  <img align="left" alt="C#" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/1200px-C_Sharp_wordmark.svg.png" />
+  <img align="left" alt="C#" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/1200px-C_Sharp_wordmark.svg.png" />
 </a> 
 <a href="https://dotnet.microsoft.com/en-us/apps/aspnet">
-  <img align="left" alt="ASP.NET" width="100px" src="https://logodix.com/logo/1796956.png" />
+  <img align="left" alt="ASP.NET" width="60px" src="https://logodix.com/logo/1796956.png" />
 </a> 
 <a href="https://dotnet.microsoft.com/en-us/">
-  <img align="left" alt=".NET Core" width="100px" src="https://github.com/imlystyi/imlystyi/assets/47981548/9b07f5a5-b01b-4183-ad2b-e679377ccb9d"/>
+  <img align="left" alt=".NET Core" width="60px" src="https://github.com/imlystyi/imlystyi/assets/47981548/9b07f5a5-b01b-4183-ad2b-e679377ccb9d"/>
 </a> 
 <a href="https://dotnet.microsoft.com/en-us/">
-  <img align="left" alt=".NET Framework" width="100px" src="https://cdni.comss.net/logo/netframework.png"/>
+  <img align="left" alt=".NET Framework" width="60px" src="https://cdni.comss.net/logo/netframework.png"/>
 </a> 
 <a href="https://dotnet.microsoft.com/en-us/apps/maui">
-  <img align="left" alt=".NET MAUI" width="100px" src="https://styles.redditmedia.com/t5_2odyx7/styles/communityIcon_19sk0x18irz41.png"/>
+  <img align="left" alt=".NET MAUI" width="60px" src="https://styles.redditmedia.com/t5_2odyx7/styles/communityIcon_19sk0x18irz41.png"/>
   <a href="https://learn.microsoft.com/en-us/windows/uwp/get-started/universal-application-platform-guide">
-  <img align="left" alt="UWP" width="100px" src="https://github.com/imlystyi/imlystyi/assets/47981548/63451759-163b-4cb9-831b-6f2e89f6e587"/>
+  <img align="left" alt="UWP" width="60px" src="https://github.com/imlystyi/imlystyi/assets/47981548/63451759-163b-4cb9-831b-6f2e89f6e587"/>
 <a href="https://www.python.org/">
-  <img align="left" alt="Python" width="110px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/640px-Python.svg.png"/>
+  <img align="left" alt="Python" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/640px-Python.svg.png"/>
 </a>
