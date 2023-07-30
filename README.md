@@ -15,6 +15,7 @@ Our team developed the [excemath](https://github.com/miu-miu-enjoyers/excemath) 
 My personal projects are:
 - [Coin Manager](https://github.com/imlystyi/coin-manager) - open source application that allows you to track and manage the cryptocurrency market for Windows
 - [QuickPlans](https://github.com/imlystyi/quickplans) - simple, quick and concise note editor for Android
+- [ilt](https://github.com/imlystyi/ilt) - application that help you quickly insert license text (header) into your source code files.
 
 ### 📲 Languages and technologies
 - [C#](https://learn.microsoft.com/en-us/dotnet/csharp/)
