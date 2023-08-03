@@ -13,7 +13,7 @@ My name is Vladyslav, I'm a student at Lviv Polytechnic National University. I w
 I'm the Team Leader of the [miu-miu enjoyers](https://github.com/miu-miu-enjoyers) team who are also students of Lviv Polytechnic National University. 
 
 #### Team projects:
--  [excemath](https://github.com/miu-miu-enjoyers/excemath) - open-source mobile application that helps Ukrainian students to prepare for the math exams. The project took first place according to the votes of the jury at the pitching held at the [ELEKS](https://eleks.com/) company.
+-  [excemath](https://github.com/miu-miu-enjoyers/excemath) - open-source mobile application that helps Ukrainian students to prepare for the math exams. The project took first place according to the votes of the jury at the pitching held at the [ELEKS](https://eleks.com/) company
 - [excemath API](https://github.com/miu-miu-enjoyers/excemath-api) - open-source API to the educational projects related to math
 
 #### My personal projects:
